@@ -10,7 +10,7 @@ function Contato() {
 
             <Link to={"/"}>
                 Home
-            </Link> <br /> <br />
+            </Link> <br />
 
             <Link to={'/sobre'}>
                 Sobre

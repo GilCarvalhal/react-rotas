@@ -9,7 +9,7 @@ function Sobre() {
 
             <Link to={'/'}>
                 Home
-            </Link> <br /> <br />
+            </Link> <br />
 
             <Link to={'/contato'}>
                 Contato

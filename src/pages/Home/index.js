@@ -9,7 +9,7 @@ function Home() {
 
             <Link to={'/sobre'}>
                 Sobre
-            </Link> <br /> <br />
+            </Link> <br />
 
             <Link to={'/contato'}>
                 Contato
